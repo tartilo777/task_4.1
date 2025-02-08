@@ -6,5 +6,5 @@
 
 
 ---
-    git init
+     git init
 ---

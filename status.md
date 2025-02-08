@@ -6,5 +6,5 @@
 
 
 ---
-    git status
+     git status
 ---
